@@ -1,6 +1,6 @@
-const foco = 1
-const pausaCurta = 0
-const pausaLonga = 0
+const foco = 25
+const pausaCurta = 5
+const pausaLonga = 15
 
 $(document).ready (() => {
 
