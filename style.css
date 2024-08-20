@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: aptos;
+    color: white;
+}
+.foco25 {
+    background: linear-gradient(to right, #77f35e, #54a9ca);
+}
+.pausa5 {
+    background: linear-gradient(to right, #77f35e, #8b54ca);
+}
+.pausa15 {
+    background: linear-gradient(to right, #77f35e, #ca5464);
+}
+.container {
+    height: 100vh;
+}
+.linha_principal {
+    box-shadow: 0px 0px 20px black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 85%;
+    height: 500px;
+}
+.contador {
+    height: 75%;
+}
+.temporizador span {
+    font-size: 200px;
+    text-shadow: 1px 1px 10px black;
+}
+.numeroCiclosCompletos span {
+    color: black;
+    line-height: 20px;
+}
